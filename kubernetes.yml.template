@@ -37,7 +37,7 @@ spec:
                 fieldPath: metadata.labels
       imagePullSecrets:
         - name: wercker
---
+---
 apiVersion: v1
 kind: Service
 metadata:
